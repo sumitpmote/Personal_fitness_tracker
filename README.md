@@ -28,6 +28,8 @@ This project is a **Personal Fitness Tracker** that predicts the number of calor
 
 ![Screenshot 2025-03-22 234510](https://github.com/user-attachments/assets/01e62170-7808-4f89-80b0-5196c97d23a7)
 
+Changes made by neha
+
 
 
 
